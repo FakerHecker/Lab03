@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\New folder\\Lab03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB60798-3496-4152-90CA-F9D703089DB6}|NUnitTesting\\NUnitTesting.csproj|d:\\new folder\\lab03\\nunittesting\\nonmockdaytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FB60798-3496-4152-90CA-F9D703089DB6}|NUnitTesting\\NUnitTesting.csproj|solutionrelative:nunittesting\\nonmockdaytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB60798-3496-4152-90CA-F9D703089DB6}|NUnitTesting\\NUnitTesting.csproj|D:\\New folder\\Lab03\\nunittesting\\datetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FB60798-3496-4152-90CA-F9D703089DB6}|NUnitTesting\\NUnitTesting.csproj|solutionrelative:nunittesting\\datetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB60798-3496-4152-90CA-F9D703089DB6}|NUnitTesting\\NUnitTesting.csproj|D:\\New folder\\Lab03\\nunittesting\\dayinmonthtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FB60798-3496-4152-90CA-F9D703089DB6}|NUnitTesting\\NUnitTesting.csproj|solutionrelative:nunittesting\\dayinmonthtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84B81635-BEC5-4F76-AA7B-7B254E5EC0A0}|Function\\Function.csproj|D:\\New folder\\Lab03\\function\\checkdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84B81635-BEC5-4F76-AA7B-7B254E5EC0A0}|Function\\Function.csproj|solutionrelative:function\\checkdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84B81635-BEC5-4F76-AA7B-7B254E5EC0A0}|Function\\Function.csproj|D:\\New folder\\Lab03\\function\\icheckdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84B81635-BEC5-4F76-AA7B-7B254E5EC0A0}|Function\\Function.csproj|solutionrelative:function\\icheckdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{904ea1b4-c6a7-4eca-94a1-76eab06c5187}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{904ea1b4-c6a7-4eca-94a1-76eab06c5187}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DateTests.cs",
+              "DocumentMoniker": "D:\\New folder\\Lab03\\NUnitTesting\\DateTests.cs",
+              "RelativeDocumentMoniker": "NUnitTesting\\DateTests.cs",
+              "ToolTip": "D:\\New folder\\Lab03\\NUnitTesting\\DateTests.cs",
+              "RelativeToolTip": "NUnitTesting\\DateTests.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T12:42:51.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NonMockDayTests.cs",
+              "DocumentMoniker": "D:\\New folder\\Lab03\\NUnitTesting\\NonMockDayTests.cs",
+              "RelativeDocumentMoniker": "NUnitTesting\\NonMockDayTests.cs",
+              "ToolTip": "D:\\New folder\\Lab03\\NUnitTesting\\NonMockDayTests.cs",
+              "RelativeToolTip": "NUnitTesting\\NonMockDayTests.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T12:43:15.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DayInMonthTests.cs",
+              "DocumentMoniker": "D:\\New folder\\Lab03\\NUnitTesting\\DayInMonthTests.cs",
+              "RelativeDocumentMoniker": "NUnitTesting\\DayInMonthTests.cs",
+              "ToolTip": "D:\\New folder\\Lab03\\NUnitTesting\\DayInMonthTests.cs",
+              "RelativeToolTip": "NUnitTesting\\DayInMonthTests.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T12:43:00.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICheckDate.cs",
+              "DocumentMoniker": "D:\\New folder\\Lab03\\Function\\ICheckDate.cs",
+              "RelativeDocumentMoniker": "Function\\ICheckDate.cs",
+              "ToolTip": "D:\\New folder\\Lab03\\Function\\ICheckDate.cs",
+              "RelativeToolTip": "Function\\ICheckDate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T12:43:25.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CheckDate.cs",
+              "DocumentMoniker": "D:\\New folder\\Lab03\\Function\\CheckDate.cs",
+              "RelativeDocumentMoniker": "Function\\CheckDate.cs",
+              "ToolTip": "D:\\New folder\\Lab03\\Function\\CheckDate.cs",
+              "RelativeToolTip": "Function\\CheckDate.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACMAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T12:43:26.707Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 313,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1883,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

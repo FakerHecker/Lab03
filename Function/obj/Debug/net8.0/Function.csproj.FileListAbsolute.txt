@@ -1,0 +1,46 @@
+C:\Users\PMQUOC\source\repos\SE113\Function\bin\Debug\net8.0\Function.deps.json
+C:\Users\PMQUOC\source\repos\SE113\Function\bin\Debug\net8.0\Function.dll
+C:\Users\PMQUOC\source\repos\SE113\Function\bin\Debug\net8.0\Function.pdb
+C:\Users\PMQUOC\source\repos\SE113\Function\obj\Debug\net8.0\Function.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PMQUOC\source\repos\SE113\Function\obj\Debug\net8.0\Function.AssemblyInfoInputs.cache
+C:\Users\PMQUOC\source\repos\SE113\Function\obj\Debug\net8.0\Function.AssemblyInfo.cs
+C:\Users\PMQUOC\source\repos\SE113\Function\obj\Debug\net8.0\Function.csproj.CoreCompileInputs.cache
+C:\Users\PMQUOC\source\repos\SE113\Function\obj\Debug\net8.0\Function.dll
+C:\Users\PMQUOC\source\repos\SE113\Function\obj\Debug\net8.0\refint\Function.dll
+C:\Users\PMQUOC\source\repos\SE113\Function\obj\Debug\net8.0\Function.pdb
+C:\Users\PMQUOC\source\repos\SE113\Function\obj\Debug\net8.0\ref\Function.dll
+C:\Users\PMQUOC\source\repos\SE113\Lab03\Function\bin\Debug\net8.0\Function.deps.json
+C:\Users\PMQUOC\source\repos\SE113\Lab03\Function\bin\Debug\net8.0\Function.dll
+C:\Users\PMQUOC\source\repos\SE113\Lab03\Function\bin\Debug\net8.0\Function.pdb
+C:\Users\PMQUOC\source\repos\SE113\Lab03\Function\obj\Debug\net8.0\Function.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PMQUOC\source\repos\SE113\Lab03\Function\obj\Debug\net8.0\Function.AssemblyInfoInputs.cache
+C:\Users\PMQUOC\source\repos\SE113\Lab03\Function\obj\Debug\net8.0\Function.AssemblyInfo.cs
+C:\Users\PMQUOC\source\repos\SE113\Lab03\Function\obj\Debug\net8.0\Function.csproj.CoreCompileInputs.cache
+C:\Users\PMQUOC\source\repos\SE113\Lab03\Function\obj\Debug\net8.0\Function.dll
+C:\Users\PMQUOC\source\repos\SE113\Lab03\Function\obj\Debug\net8.0\refint\Function.dll
+C:\Users\PMQUOC\source\repos\SE113\Lab03\Function\obj\Debug\net8.0\Function.pdb
+C:\Users\PMQUOC\source\repos\SE113\Lab03\Function\obj\Debug\net8.0\ref\Function.dll
+C:\Users\tranb\OneDrive\Desktop\Lab03\Function\bin\Debug\net8.0\Function.deps.json
+C:\Users\tranb\OneDrive\Desktop\Lab03\Function\bin\Debug\net8.0\Function.dll
+C:\Users\tranb\OneDrive\Desktop\Lab03\Function\bin\Debug\net8.0\Function.pdb
+C:\Users\tranb\OneDrive\Desktop\Lab03\Function\obj\Debug\net8.0\Function.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tranb\OneDrive\Desktop\Lab03\Function\obj\Debug\net8.0\Function.AssemblyInfoInputs.cache
+C:\Users\tranb\OneDrive\Desktop\Lab03\Function\obj\Debug\net8.0\Function.AssemblyInfo.cs
+C:\Users\tranb\OneDrive\Desktop\Lab03\Function\obj\Debug\net8.0\Function.csproj.CoreCompileInputs.cache
+C:\Users\tranb\OneDrive\Desktop\Lab03\Function\obj\Debug\net8.0\Function.sourcelink.json
+C:\Users\tranb\OneDrive\Desktop\Lab03\Function\obj\Debug\net8.0\Function.dll
+C:\Users\tranb\OneDrive\Desktop\Lab03\Function\obj\Debug\net8.0\refint\Function.dll
+C:\Users\tranb\OneDrive\Desktop\Lab03\Function\obj\Debug\net8.0\Function.pdb
+C:\Users\tranb\OneDrive\Desktop\Lab03\Function\obj\Debug\net8.0\ref\Function.dll
+D:\New folder\Lab03\Function\bin\Debug\net8.0\Function.deps.json
+D:\New folder\Lab03\Function\bin\Debug\net8.0\Function.dll
+D:\New folder\Lab03\Function\bin\Debug\net8.0\Function.pdb
+D:\New folder\Lab03\Function\obj\Debug\net8.0\Function.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\Lab03\Function\obj\Debug\net8.0\Function.AssemblyInfoInputs.cache
+D:\New folder\Lab03\Function\obj\Debug\net8.0\Function.AssemblyInfo.cs
+D:\New folder\Lab03\Function\obj\Debug\net8.0\Function.csproj.CoreCompileInputs.cache
+D:\New folder\Lab03\Function\obj\Debug\net8.0\Function.sourcelink.json
+D:\New folder\Lab03\Function\obj\Debug\net8.0\Function.dll
+D:\New folder\Lab03\Function\obj\Debug\net8.0\refint\Function.dll
+D:\New folder\Lab03\Function\obj\Debug\net8.0\Function.pdb
+D:\New folder\Lab03\Function\obj\Debug\net8.0\ref\Function.dll
